@@ -1,0 +1,4 @@
+﻿  Dynamic and destructor.cpp
+D:\Khushi\C++\Assignment 5 dynamic contructor\Dynamic and destructor.cpp(27,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignment 5 dynamic contructor\Dynamic and destructor.cpp(28,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment 5 dynamic contructor.vcxproj -> D:\Khushi\C++\Assingment 5\Debug\Assignment 5 dynamic constructor and destructor.exe

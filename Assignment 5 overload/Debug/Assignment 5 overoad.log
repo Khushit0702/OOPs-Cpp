@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Khushi\C++\Assignment 5 overoad\Source.cpp(20,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignment 5 overoad\Source.cpp(21,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignment 5 overoad\Source.cpp(31,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignment 5 overoad\Source.cpp(32,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignment 5 overoad\Source.cpp(33,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignment 5 overoad\Source.cpp(34,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignment 5 overoad\Source.cpp(35,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment 5 overoad.vcxproj -> D:\Khushi\C++\Assingment 5\Debug\Assignment 5 overoad.exe

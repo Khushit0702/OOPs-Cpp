@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Khushi\C++\Assignent 5 copy concstructor\Source.cpp(20,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignent 5 copy concstructor\Source.cpp(21,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignent 5 copy concstructor\Source.cpp(32,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assignent 5 copy concstructor\Source.cpp(33,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignent 5 copy concstructor.vcxproj -> D:\Khushi\C++\Assingment 5\Debug\Assignent 5 copy concstructor.exe
