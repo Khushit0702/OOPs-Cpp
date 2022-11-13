@@ -1,0 +1,14 @@
+Employee 1:
+Name- Khushi Tulsian
+ID- A086
+Post- CEO
+
+Employee 2:
+Name- Bhakti Tanksale
+ID- A090
+Post- Chairperson
+
+New employee will be added below
+
+
+
