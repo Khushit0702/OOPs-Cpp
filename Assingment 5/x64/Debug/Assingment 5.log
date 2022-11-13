@@ -1,0 +1,4 @@
+﻿  Default Constructor.cpp
+D:\Khushi\C++\Assingment 5\Default Constructor.cpp(20,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Khushi\C++\Assingment 5\Default Constructor.cpp(21,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assingment 5.vcxproj -> D:\Khushi\C++\Assingment 5\x64\Debug\Assingment 5 Default.exe
